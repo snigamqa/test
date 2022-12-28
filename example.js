@@ -1,4 +1,4 @@
-var myChart = new Chart("myChart", {
+var myChart = new Chart("myChart1", {
   type: "scatter",
   data: {},
   options: {}
